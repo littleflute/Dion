@@ -1,4 +1,4 @@
-[v0.0.2](https://github.com/littleflute/Dion/edit/master/README.md
+[v0.0.3](https://github.com/littleflute/Dion/edit/master/README.md)
 
 [501M]
 [King of the New York Streets Disc 1](King of the New York Streets Disc 1)
